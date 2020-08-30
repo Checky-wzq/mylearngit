@@ -11,7 +11,9 @@ void handler_test()
 {
 	123
 	456
-	789
+	789	
+	123	
+	456
 }
 //子线程执行函数
 void *pthread_test(void *arg)
